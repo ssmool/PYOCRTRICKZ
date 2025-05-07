@@ -1,3 +1,6 @@
+#asytrick
+#github.com/ssmool
+#eusmool@gmail.com
 import easyocr
 
 def getOCR(file_x):
