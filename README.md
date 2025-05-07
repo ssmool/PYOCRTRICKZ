@@ -9,7 +9,7 @@ EasyOCR: pip install easyocr
 
 How to Use:
 
-Terminal: python main_app.py path\image.gif
+Terminal: python main_app.py image.[gif\jpg\png]
 
 For import on other's files:
 
