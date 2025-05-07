@@ -1,5 +1,5 @@
 # PYOCRTRICKZ
-Python OCR Program for general pourposes with EasyOCR.
+Python OCR Program for general pourposes like read texts from image files with EasyOCR.
 
 Minimum Requeriments:
 
