@@ -9,7 +9,7 @@ EasyOCR: pip install easyocr
 
 How to Use:
 
-Terminal: python main_app.py
+Terminal: python main_app.py path\file
 
 For import on other's files:
 
