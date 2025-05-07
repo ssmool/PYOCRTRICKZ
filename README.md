@@ -4,6 +4,7 @@ Python OCR Program for general pourposes with EasyOCR.
 Minimum Requeriments:
 
 Python 2: https://www.python.org/download/releases/2.0/#download
+
 EasyOCR: pip install easyocr
 
 How to Use:
