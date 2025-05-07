@@ -1,3 +1,7 @@
+#asytrick
+#github.com/ssmool
+#eusmool@gmail.com
+
 import sys
 from py_ocr import getOCR, getOCRText
 
