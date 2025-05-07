@@ -16,6 +16,7 @@ For import on other's files:
 from py_ocr import GetOCR, GetOCRText
 
 GetOCR - Read and return full information about the text on the image file
+
 GETOCRText - Trim the only strings by the GetOCR returned text
 
 #asytrick
